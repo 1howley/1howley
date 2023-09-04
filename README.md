@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @1howley in this world but outside i’m Gabriel Ferreira Santana, i study in "Instituto Federal do Sul de Minas" and i’m taking a computer science course. 
-- 👀 I’m interested in developing software's, but outside this world i love soccer
-- 🌱 I’m currently learning Java, JavaScript, Python and also all generalized of computer science, my project is learn Unity and Unreal Engine. 
-- 💞️ I’m looking to collaborate on Game Maker Studio 2, C++ / C and HTML / CSS but i too looking for to a design's on Photoshop and video edits.
-- 📫 E-mail: bielgabrielfs61@gmail.com
-- 📷 Instagram: @gabrielfps_
+## Hi! I'm Gabriel Ferreira Santana
 
-<!---
-1howley/1howley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielfps_/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-09a434252/)
+
+![My stats](https://github-readme-stats.vercel.app/api?username=1howley&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1howley&theme=tokyonight)](https://github.com/1howley/github-readme-stats)
+
+## Technologies
+
+<div style="display: inline_block">
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div><br/>
+
+I'm a big fan of the tech and geek world!
+
+
+
+
+
