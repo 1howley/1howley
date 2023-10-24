@@ -3,9 +3,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielfps_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ferreira-09a434252/)
 
-![My stats](https://github-readme-stats.vercel.app/api?username=1howley&show_icons=true&theme=tokyonight)
+<div>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=1howley&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=12" alt="readme stats" />
+  <img height="150cm" alt="readme stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1howley&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1howley&theme=tokyonight)](https://github.com/1howley/github-readme-stats)
 
 ## Technologies
 
